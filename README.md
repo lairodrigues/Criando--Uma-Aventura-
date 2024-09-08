@@ -1,12 +1,15 @@
+**Bem vindo ao meu perfil**
 - 👋 Hi, I’m @lairodrigues
 - 👀 I’m interested in jornalismo 
 - 🌱 I’m currently learning algumas línguas estrangeiras
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo meu endereço de e-mail 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: gosto de dançar, cozinhar, ler livros, escrever 
+- 😄 Estou me aperfeiçoando na linguagem Javascript
+- ⚡ sou estudante do [Alura](https://www.alura.com.br)  
 
-<!---
-lairodrigues/lairodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Você pode entrar em cotato comigo**
+
+00001120211153sp@al.educacao.sp.gov.br
+
+@laisrodrigues
+
+![](https://media1.tenor.com/m/yDxgngEEeY0AAAAC/barbie-pink.gif)
